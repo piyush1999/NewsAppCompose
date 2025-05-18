@@ -12,7 +12,6 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.example.newsapp.ui.theme.WhiteGray
 
-
 @Composable
 fun NewsButton(
     text: String,
@@ -48,10 +47,3 @@ fun NewsTextButton(
         )
     }
 }
-
-
-
-
-
-
-

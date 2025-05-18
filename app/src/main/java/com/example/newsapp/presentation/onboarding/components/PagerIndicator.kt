@@ -14,7 +14,6 @@ import androidx.compose.ui.graphics.Color
 import com.example.newsapp.ui.theme.BlueGray
 import com.example.newsapp.presentation.Dimens.IndicatorSize
 
-
 @Composable
 fun PagerIndicator(
     modifier: Modifier = Modifier,
