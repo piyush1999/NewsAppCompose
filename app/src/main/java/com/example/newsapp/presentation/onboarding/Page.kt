@@ -3,7 +3,6 @@ package com.example.newsapp.presentation.onboarding
 import androidx.annotation.DrawableRes
 import com.example.newsapp.R
 
-
 data class Page(
     val title: String,
     val description: String,
